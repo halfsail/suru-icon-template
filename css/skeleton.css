@@ -408,7 +408,7 @@ there.
   /* custom bits
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
     .twelve.columns.suru{
-    background: url(/images/icon1.png) no-repeat center center fixed;
+    background: url(../images/icon1.png) no-repeat center center fixed;
     height: 100vh;
     -webkit-background-size: cover;
     -moz-background-size: cover;
