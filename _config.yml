@@ -1,0 +1,9 @@
+# Site settings
+title: 'Suru Icon Template' # Your Title
+
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+url: http://localhost:4000
+#baseurl: /strange_case # the subpath of your site, e.g. /blog/
