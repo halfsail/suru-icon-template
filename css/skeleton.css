@@ -345,6 +345,10 @@ hr {
     font-style: normal;
   }
 
+  .twelve.columns.toolkit{
+    height:auto;
+  }
+
   .twelve.columns.feature{
     height:6rem;
     margin: 6rem auto 0 auto;
